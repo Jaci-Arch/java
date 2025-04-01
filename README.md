@@ -1,4 +1,4 @@
-# Kubernetes Java Client
+[SECURITY.md](https://github.com/misakiyro/TeamProject/blob/staging/SECURITY.md)# Kubernetes Java Client
 
 [![build](https://github.com/kubernetes-client/java/workflows/build/badge.svg)](https://github.com/kubernetes-client/java/actions/workflows/maven.yml)
 [![Client Capabilities](https://img.shields.io/badge/Kubernetes%20client-Silver-blue.svg?style=flat&colorB=C0C0C0&colorA=306CE8)](https://bit.ly/kubernetes-client-capabilities-badge)
